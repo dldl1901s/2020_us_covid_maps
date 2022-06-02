@@ -15,11 +15,12 @@ body {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 110px;
-    background: #fff;
+    width: 120px;
+    height: 200px;
+    background: rgb(231, 231, 231);
     margin-right: 20px;
     margin-bottom: 40px;
-    padding: 10px 20px 10px 10px;
+    padding: 10px 50px 70px 10px;
     border-radius: 3px;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
@@ -37,20 +38,17 @@ body {
     display: inline-block;
     margin-top: 5px;
     border-radius: 50%;
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 /* the label for the dot */
 .dot-label {
     position: absolute;
     top: 0;
-    right: 0;
+    left: 90px;
+    font-size: 14px;
     font-style: italic;
-}
-
-/* the text color of a hyper link */
-a {
-    color: black
+    font-weight: bold;
 }
 
 #title {
@@ -60,18 +58,24 @@ a {
     margin-top: 20px;
     margin-left: 20px;
     font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
     font-size: 25pt;
-    color: white
+    color: rgb(65, 65, 65)
 }
 
 
-#subtitle {
+#year {
     position: absolute;
     top: 0;
     left: 0;
-    margin-top: 70px;
-    margin-left: 190px;
+    margin-top: 60px;
+    margin-left: 30px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 15pt;
-    color: white
+    font-size: 18pt;
+    font-weight: bold;
+    color: rgb(65, 65, 65)
+}
+
+a {
+    color: rgb(12, 44, 131)
 }
