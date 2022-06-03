@@ -11,7 +11,7 @@ The data are from *[US Census Bureau]* and *[New York Times]*.
 
 
 https://dldl1901s.github.io/2020_us_covid_maps/map2.html
-[first map]:https://dldl1901s.github.io/2020_us_covid_maps/map1.html
-[second map]:https://dldl1901s.github.io/2020_us_covid_maps/map2.html
+[first map]: https://dldl1901s.github.io/2020_us_covid_maps/map1.html
+[second map]: https://dldl1901s.github.io/2020_us_covid_maps/map2.html
 [US Census Bureau]: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 [New York Times]: https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv
