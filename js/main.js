@@ -84,3 +84,8 @@ const source2 =
 '<p style="text-align: right;  font-size:8pt"><a href="https://data.census.gov/cedsci/table?g=0100000US.050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true"> Census Bureau</a><br></p>';
 
 legend.innerHTML = labels.join('') + source1 + source2;
+
+
+
+
+

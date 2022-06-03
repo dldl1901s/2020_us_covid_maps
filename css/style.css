@@ -10,6 +10,7 @@ body {
     width: 100%;
 }
 
+
 /* the layout of the legend panel */
 #legend {
     position: absolute;
@@ -41,6 +42,13 @@ body {
     opacity: 0.8;
 }
 
+.rectangle{
+    display: inline-block;
+    margin-top: 5px;
+    border-radius: 10%;
+    opacity: 0.8; 
+}
+
 /* the label for the dot */
 .dot-label {
     position: absolute;
@@ -60,7 +68,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     font-size: 25pt;
-    color: rgb(65, 65, 65)
+    color: rgb(135, 135, 136)
 }
 
 
@@ -73,7 +81,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 18pt;
     font-weight: bold;
-    color: rgb(65, 65, 65)
+    color: rgb(135, 135, 136)
 }
 
 a {
