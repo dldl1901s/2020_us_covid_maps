@@ -10,7 +10,6 @@ The **[second map]** shows the Covid 19 cases by county. The number of cases is 
 The data are from *[US Census Bureau]* and *[New York Times]*.
 
 
-https://dldl1901s.github.io/2020_us_covid_maps/map2.html
 [first map]: https://dldl1901s.github.io/2020_us_covid_maps/map1.html
 [second map]: https://dldl1901s.github.io/2020_us_covid_maps/map2.html
 [US Census Bureau]: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
